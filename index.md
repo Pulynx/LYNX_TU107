@@ -1,6 +1,6 @@
 # Digital Profile
 
-![Image](https://www.facebook.com/photo?fbid=665612273890062&set=a.144886765962618)
+![Image](https://scontent.fbkk29-2.fna.fbcdn.net/v/t1.6435-9/57099067_665612277223395_691559974551158784_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=QqXsFSEbA1MAX-k05Cw&tn=KlPM2DAY3sHEchew&_nc_ht=scontent.fbkk29-2.fna&oh=2562976fe0f6670c28b5fc14a1c04494&oe=61AAD080)
 
 ## _ประวัติส่วนตัว_
 
