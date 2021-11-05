@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Digital Profile
 
-You can use the [editor on GitHub](https://github.com/Pulynx/LYNX_TU107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://www.facebook.com/photo?fbid=665612273890062&set=a.144886765962618)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## _ประวัติส่วนตัว_
 
-### Markdown
+ชื่อ : ภูเบศ นามสกุล : ติณณ์วรเดช ชื่อเล่น : ลิงค์
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+เชิ้อชาติ : ไทย สัญชาติ : ไทย ศาสนา : Irreligion สถานภาพ : โสด
 
-```markdown
-Syntax highlighted code block
+เกิดเมื่อวันที่ : 22 มิถุนายน 2544 อายุ : 20 ปี
 
-# Header 1
-## Header 2
-### Header 3
+เบอร์โทรศัพท์ : 098-7654321
 
-- Bulleted
-- List
+อีเมล : ppulynx@gmail.com
 
-1. Numbered
-2. List
+## _ประวัติการศึกษา_
 
-**Bold** and _Italic_ and `Code` text
+สำเร็จการศึกษาระดับประถมจาก : โรงเรียนมารีย์วิทยา
 
-[Link](url) and ![Image](src)
-```
+สำเร็จการศึกษาระดับมัธถยมตอนต้นจาก : โรงเรียนราชสีมาวิทยาลัย
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+สำเร็จการศึกษาระดับมัธถยมตอนปลายจาก : โรงเรียนราชสีมาวิทยาลัย
 
-### Jekyll Themes
+กำลังศึกษาระดับอุดมศึกษาระดับปริญญาตรี : มหาวิทยาลัยธรรมศาสตร์ คณะสหวิทยาการ สาขานวัตกรรมข้อมูล
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pulynx/LYNX_TU107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## _ความชอบส่วนตัว_
 
-### Support or Contact
+สีที่ชอบ : ขาว ดำ
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+อาหารที่ชอบ : ข้าวกะเพรา
+
+มังงะที่ชอบ : Hunter X Hunter
+
+ซีรีย์ที่ชอบ : House Of Cards
+
+หนังที่ชอบ : Green Book
+
+หนังสือที่ชอบ : Thinking Fast And Slow 
+
+วงดนตรีที่ชอบ : Linkin Park
+
+งานอดิเรก : อ่านหนังสือ ดูหนัง ฟังเพลง ฟังพอดแคส เล่นเกม
+
+ความฝัน : **อยากรวยยยยยยยยยยยยยยยยยยยยยยยยยยยยย**
